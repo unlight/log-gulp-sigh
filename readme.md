@@ -13,7 +13,7 @@ Put in your sigh.js file:
 ```js
 require("log-gulp-sigh")();
 ```
-Now, your log messages from gulp plugins will transformed from this:
+Now, your log messages from gulp plugins will be transformed from this:
 ![](https://i.gyazo.com/2cf81616435c045152c7100e66e369e3.png)
 
 to this:
