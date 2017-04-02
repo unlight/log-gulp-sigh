@@ -1,4 +1,6 @@
 # log-gulp-sigh
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/unlight/log-gulp-sigh.svg)](https://greenkeeper.io/)
 Intercepts gulp-log messages and output it in sigh style.
 
 INSTALL
